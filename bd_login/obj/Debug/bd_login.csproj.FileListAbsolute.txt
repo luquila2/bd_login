@@ -1,0 +1,10 @@
+D:\bd_login\bd_login\bin\Debug\bd_login.exe.config
+D:\bd_login\bd_login\bin\Debug\bd_login.exe
+D:\bd_login\bd_login\bin\Debug\bd_login.pdb
+D:\bd_login\bd_login\obj\Debug\bd_login.csproj.AssemblyReference.cache
+D:\bd_login\bd_login\obj\Debug\bd_login.Form1.resources
+D:\bd_login\bd_login\obj\Debug\bd_login.Properties.Resources.resources
+D:\bd_login\bd_login\obj\Debug\bd_login.csproj.GenerateResource.cache
+D:\bd_login\bd_login\obj\Debug\bd_login.csproj.CoreCompileInputs.cache
+D:\bd_login\bd_login\obj\Debug\bd_login.exe
+D:\bd_login\bd_login\obj\Debug\bd_login.pdb
